@@ -89,7 +89,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/joanpoerba/ketjeh-nusantara",
             label: "GitHub",
             position: "right",
           },
