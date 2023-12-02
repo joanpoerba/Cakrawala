@@ -35,6 +35,9 @@ export default function Home() {
       <HomepageHeader />
       <Team />
       <TechStack />
+      <footer>
+        <p className="text-center px-14 md:p-0">&copy; Copyright Ketjeh Nusantara | 2023 | All rights served</p>
+      </footer>
     </Layout>
   );
 }
