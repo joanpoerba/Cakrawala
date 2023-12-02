@@ -11,7 +11,7 @@ const config = {
   title: "Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
   tagline:
     "Bersama kita lestarikan budaya dari setiap daerah yang ada di Indonesia, hanya dengan meng-kepoin nya, agar tetap terjaga sampai anak cucu.",
-  favicon: "img/favicon.ico",
+  favicon: "img/icon.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",

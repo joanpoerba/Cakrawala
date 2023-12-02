@@ -18,7 +18,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/intro"
+              to="/docs/category/tutorial---basics"
             >
               Kepo nih!
             </Link>
@@ -36,7 +36,9 @@ export default function Home() {
       <Team />
       <TechStack />
       <footer>
-        <p className="text-center px-14 md:p-0">&copy; Copyright Ketjeh Nusantara | 2023 | All rights served</p>
+        <p className="text-center px-14 md:p-0">
+          &copy; Copyright Ketjeh Nusantara | 2023 | All rights served
+        </p>
       </footer>
     </Layout>
   );
