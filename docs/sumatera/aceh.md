@@ -34,6 +34,16 @@ Dilansir dari situs Kemendikbud RI, nama pakaian adat Aceh dikenal dengan Ulee B
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/01/10150442/popmama.jpg"/>
+<br/>
+Tari Saman merupakan salah satu media untuk menyampaikan pesan atau dakwah. Tarian ini mencerminkan pendidikan, keagamaan, sopan santun, kepahlawanan, kekompakan dan kebersamaan.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

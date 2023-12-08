@@ -34,6 +34,16 @@ Pakaian adat Jawa Timur berasal dari Banyuwangi. Baju jebeng berupa kebaya polos
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Tarian_Reog_Ponorogo.jpg"/>
+<br/>
+Reog merupakan tarian tradisional dari Ponorogo, Jawa Timur dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, dengan berat topeng mencapai 50–60 kg.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

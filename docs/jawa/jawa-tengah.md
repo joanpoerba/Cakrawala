@@ -34,6 +34,16 @@ Surjan merupakan baju adat Jawa Tengah yang menggambarkan status sosial. Baju ad
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://mixmediabali.s3.ap-southeast-1.amazonaws.com/mixmedia/sites/8/2018/02/29113902/25a.jpg"/>
+<br/>
+Tari Bedaya Ketawang adalah sebuah tarian kebesaran yang hanya dipertunjukkan ketika penobatan serta Tingalandalem Jumenengan Sunan Surakarta. Nama Bedhaya Ketawang sendiri berasal dari kata bedhaya yang berarti penari wanita di istana.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>
