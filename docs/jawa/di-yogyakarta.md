@@ -34,6 +34,16 @@ Pinjung adalah pakaian adat Yogyakarta yang umum dikenakan oleh Abdi Dalem kerat
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/Tf_-D9OMKb1eoeNsclK4zdCdU_o=/33x18:470x310/750x500/data/photo/2021/02/11/6025216b531e1.jpg"/>
+<br/>
+Srimpi atau Serimpi merupakan genre tari klasik gaya Yogyakarta yang diperkirakan telah ada sejak masa pemerintahan Sultan Agung, era Mataram Islam. Di Keraton Yogyakarta, istilah Srimpi merujuk pada tari putri yang umumnya dibawakan dengan anggun oleh empat penari. Pada awalnya, Srimpi merupakan tarian sakral yang dibawakan hanya pada saat tertentu, seperti pada peringatan kenaikan takhta, resepsi pernikahan, atau upacara kenegaraan.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

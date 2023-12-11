@@ -34,6 +34,16 @@ Baju adat Jawa Barat yang satu ini sangat identik dengan masyarakat Sunda. Biasa
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://awsimages.detik.net.id/community/media/visual/2022/08/03/kesenian-jawa-barat-tari-jaipong-yang-mendunia_169.jpeg?w=600&q=90"/>
+<br/>
+Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda yang berasal dari wilayah Karawang dan sangat populer di Indonesia.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>
