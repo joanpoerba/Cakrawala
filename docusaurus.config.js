@@ -84,7 +84,7 @@ const config = {
         title: "Ketjeh Nusantara",
         items: [
           {
-            href: "https://wa.me/+6282275338090?text=Hai%Joann",
+            href: "https://wa.me/+6282275338090?text=Hai%20Joann",
             label: "Contact",
             position: "right",
           },
