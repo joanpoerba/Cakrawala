@@ -34,6 +34,16 @@ Biliu adalah salah satu pakaian adat Gorontalo yang wajib digunakan mempelai wan
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Tari-Saronde.jpg"/>
+<br/>
+Tari Saronde berasal dari Gorontalo. Tarian ini terinspirasi dari tradisi pernikahan adat masyarakat Gorontalo. Pada zaman dahulu, tari Saronde digunakan sebagai sarana Molihe Huali, yaitu mengintip calon istri. Hal tersebut terjadi karena  calon pengantin pada saat itu umumnya belum saling mengenal. Pernikahan karena perjodohan orang tua atau keluarga. Tari Saronde ditarikan pada malam pertunangan. Tari Saronde dilakukan oleh mempelai pria bersama kedua orang tuanya atau wali dihadapan mempelai wanita yang berdiam di suatu ruangan.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

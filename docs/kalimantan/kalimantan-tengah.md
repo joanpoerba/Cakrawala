@@ -34,6 +34,18 @@ Baju Upak Nyamu adalah jenis pakaian adat suku Dayak yang berasal dari Kalimanta
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://indonesiakaya.com/wp-content/uploads/2020/10/11__Gerakan_tari_mandau_cenderung_lincah_dan_akrobatik.jpg"/>
+<br/>
+Di Kalimantan Tengah, misalnya, terdapat tari tradisional yang bernama tari mandau.
+
+Tari mandau lekat hubungannya dengan Suku Dayak. Tari ini sering dipentaskan dalam berbagai upacara adat dan upacara penyambutan tamu agung. Tari mandau biasa dibawakan oleh laki-laki maupun perempuan. Tari ini menggambarkan semangat juang prajurit Dayak dalam membela tanah air, harkat, dan martabat mereka.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

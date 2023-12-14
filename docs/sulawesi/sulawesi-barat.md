@@ -34,6 +34,16 @@ Baju Pokko ini, bisa dibilang seperti baju batik bagi Indonesia ala Sulawesi Sel
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://kikomunal-indonesia.dgip.go.id/storage/app/uploads/public/5fd/750/4ab/5fd7504abb635062423966.jpg"/>
+<br/>
+Tari bamba manurung adalah tarian tradisional dari daerah Mamuju yang merupakan Ibukota Provinsi Sulawesi Barat. Tari Manurung ini biasanya dilakukan pada acara pesta adat di Mamuju, dihadapan para tokoh adat dan penghulu. Para penari Bamba adalah wanita dengan mengenakan pakaian adat khas Sulawesi Barat yaitu Baju Badu, dengan aksesorisnya bunga beru-beru (bunga melati) menghiasi bagian kepala. Para penari Bamba membawa kipas seperti halnya tarian Patuddu.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

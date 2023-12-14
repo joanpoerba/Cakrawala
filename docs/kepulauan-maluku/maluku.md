@@ -34,6 +34,16 @@ Baju Cele. Baju Cele merupakan baju dari adat Maluku yang memiliki warna dominas
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Tari-Katreji-22.jpg"/>
+<br/>
+Tari Katreji adalah salah satu tarian tradisional asal Provinsi Maluku. Tarian yang dilakukan berpasangan antara wanita dan pria ini sangat terkenal dan sering ditampilkan pada acara-acara perayaan hari besar, penyambutan tamu maupun pernikahan adat dan pentas seni di sekolah-sekolah.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

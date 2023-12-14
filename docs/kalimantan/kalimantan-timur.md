@@ -34,6 +34,16 @@ Gangan Manok merupakan kuliner wajib yang harus dicoba saat berada di wilayah Ku
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://paragrafnews.com/wp-content/uploads/2023/05/Mengenal-Tari-Jepen-Suku-Kutai-.jpeg"/>
+<br/>
+Tari Jepen merupakan salah satu komposisi kesenian tradisional masyarakat Kutai Kartanegara di Prov. Kalimantan Timur. Tarian ini merupakan salah satu bentuk kesenian yang berkembang di kalangan masyarakat pesisir (masyarakat di daerah pantai), terutama yang bermukim di sepanjang Sungai Mahakam. Tarian ini mulai berkembang setelah masuknya pengaruh Islam. Pada masa lalu, tari Jepen biasanya dibawakan pada pesta perkawinan, khitanan, dan upacara/acara adat lain. Namun dalam perkembangannya, tari ini dipentaskan pula di saat memeringati hari-hari besar nasional. Tari Jepen biasanya diiringi dengan musik tertentu yang disebut tingkilan, yang terdiri dari beberapa jenis alat musik seperti gambus, ketipung, dan biola. Pada dasarnya tari Jepen bisa ditarikan dalam formasi berpasangan ataupun tunggal.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

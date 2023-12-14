@@ -34,6 +34,16 @@ King Baba adalah nama pakaian adat yang digunakan oleh laki laki yang berasal da
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/09/20105145/image001-16.png"/>
+<br/>
+Tari Adat Dayak Pesaguan adalah suatu tari tradisional yang ditarikan pada acara-acara penyambutan tamu terhormat, penjamuan tamu, pemberian gelar, atau pernikahan (tari kehormatan).
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

@@ -34,6 +34,16 @@ Baamar Galung Pancar Matahari, yaitu suatu jenis busana pengantin yang berkemban
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://i.ytimg.com/vi/ybK43LXtAwE/maxresdefault.jpg"/>
+<br/>
+Tari Banjar adalah seni tari yang dikembangkan oleh suku Banjar, Kalimantan Selatan, baik berupa tari klasik (baksa, diiringi Gamelan Banjar) maupun tari tradisional (diiringi Musik Panting).
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>
