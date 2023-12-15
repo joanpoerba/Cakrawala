@@ -41,7 +41,8 @@ Baju Pangsi tak hanya dikenal di Banten karena baju ini juga dikenal di daerah J
 <br/>
 Tarian ini mengadaptasi salah satu gaya bela diri di Kabupaten Pandeglang yaitu pijatan silat terumbu. Biasanya tari ngebaksakeun diselenggarakan untuk menyambut tamu penting dengan durasi tarian sekitar 5 menit.
 
-Para penari ngebaksakeun mengenakan kostum atasan berwarna biru dan bawahannya memiliki kombinasi kain samping cokelat bercorak dan celana putih. Keunikan dari tarian ini mempertunjukan debus yang menjadi ciri khas Banten.<br/>
+Para penari ngebaksakeun mengenakan kostum atasan berwarna biru dan bawahannya memiliki kombinasi kain samping cokelat bercorak dan celana putih. Keunikan dari tarian ini mempertunjukan debus yang menjadi ciri khas Banten.
+<br/>
 <br/>
 <br/>
 

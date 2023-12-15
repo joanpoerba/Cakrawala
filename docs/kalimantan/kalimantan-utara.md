@@ -34,6 +34,16 @@ Sapei Sapaq adalah nama pakaian adat provinsi Kalimantan Utara. Pakaian adat ini
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://seringjalan.com/wp-content/uploads/2020/04/Tari-Blunde.jpg"/>
+<br/>
+Tari Blunde atau Blundik adalah tarian tradisional Bulungan Kalimantan Utara. Blunde atau blundik merupakan tari tradisional bulungan yang sudah hampir jarang sekali ditemukan konon bentuk tari ini hampir sama dengan tari enggang dari suku Dayak, tidak menggunakan bulu enggang seperti umumnya melainkan hanya menggunakan tangan biasa dan kostumnya yang paling khas adalah ikat kepala, baju kebaya dan tapih (kain) yang digunakan hingga menutup lutut.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

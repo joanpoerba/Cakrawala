@@ -37,9 +37,9 @@ Baju adat Jawa Barat yang satu ini sangat identik dengan masyarakat Sunda. Biasa
 - ### Tarian
 
 <br/>
-<img width="500" src="https://awsimages.detik.net.id/community/media/visual/2022/08/03/kesenian-jawa-barat-tari-jaipong-yang-mendunia_169.jpeg?w=600&q=90"/>
+<img width="500" src="https://asset.kompas.com/crops/nGisFGPuWG3qD6t4PadShwiDQA0=/155x0:1000x563/750x500/data/photo/2017/12/23/2375046135.JPG"/>
 <br/>
-Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda yang berasal dari wilayah Karawang dan sangat populer di Indonesia.
+Tari topeng merupakan tarian khas Indonesia yang berasal dari Cirebon, Jawa Barat. Tari topeng memiliki ciri utama yaitu para penari menggunakan topeng untuk menutupi wajahnya. Tiap topeng yang digunakan oleh para penari mempunyai ciri khas atau karakteristiknya sendiri. Hal inilah yang semakin menambah keunikan dari budaya tari yang ada di Indonesia. Tarian tersebut biasanya akan dipentaskan oleh satu orang penari atau sejumlah penari yang berkelompok.
 <br/>
 <br/>
 <br/>

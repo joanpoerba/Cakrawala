@@ -34,6 +34,16 @@ Payas alit atau payas nista adalah baju adat Bali yang paling sederhana dan bisa
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://akcdn.detik.net.id/community/media/visual/2020/08/25/tari-kecak-1_169.jpeg?w=700&q=90"/>
+<br/>
+Tari kecak adalah seni tari yang berasal dari Bali. Seni tari kecak ini dipertunjukkan oleh puluhan penari laki-laki yang duduk berbaris dengan pola melingkar dan dengan irama tertentu menyerukan "cak, cak, cak" serta mengangkat kedua lengan.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

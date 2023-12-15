@@ -34,6 +34,16 @@ Baju Karai dan Wuyang. Pakaian adat Sulawesi Utara khas Minahasa di masa lalu te
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://pbs.twimg.com/media/FUBZ-FOUUAAEH51.jpg:large"/>
+<br/>
+Tari Sasambo adalah tari tradisional asal Sulawesi Utara yang ditarikan menggunakan iringan tagonggong. Dilansir dari laman Kemendikbud, Sasambo adalah puisi yang terdiri atas dua baris mengandung arti sebenarnya dan arti kiasan, yang mulanya brisi doa dan pujian kepadda Tuhan.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

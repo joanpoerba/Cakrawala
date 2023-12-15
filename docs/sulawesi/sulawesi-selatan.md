@@ -34,6 +34,16 @@ Baju Adat Bella Dada dari daerah Makassar yaitu model baju yang tampak adalah be
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/nQxdgxZ1GYUW3NZ6QIG9MvZykp0=/15x9:395x262/780x390/data/photo/2021/02/02/6018fba2ece05.jpg"/>
+<br/>
+Tari Kipas Pakarena adalah sejenis tarian yang berasal dari kerajaan Gowa Makasar Sulawesi Selatan, Berasal dari kata "karena " yang artinya Bermain. dan "pa" yang berati pelakunya. Tarian ini menjadi kekuatan tradisi budaya masyarakat Gowa yang sudah berabad abad lamanya.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

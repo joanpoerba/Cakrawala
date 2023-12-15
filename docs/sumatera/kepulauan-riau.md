@@ -39,7 +39,8 @@ Masyarkat asli melayu Kepulauan Riau (Kepri), sudah tidak asing lagi dengan baju
 <br/>
 <img width="500" src="https://indonesiakaya.com/wp-content/uploads/2020/10/2__Tari_persembahan_biasa_dipentaskan_oleh_5-8_orang_perempuan_yang_salah_satunya_bertugas_membawa_kotak_sirih.jpg"/>
 <br/>
-Tari makan sirih (Persembahan) adalah salah satu tarian tradisional atau tarian klasik riau (melayu) yang umumnya dipentaskan untuk menyambut dan dipersembahkan untuk menghormati tamu negara / tamu agung yang datang.<br/>
+Tari makan sirih (Persembahan) adalah salah satu tarian tradisional atau tarian klasik riau (melayu) yang umumnya dipentaskan untuk menyambut dan dipersembahkan untuk menghormati tamu negara / tamu agung yang datang.
+<br/>
 <br/>
 <br/>
 

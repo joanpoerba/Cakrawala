@@ -34,6 +34,16 @@ Nama pakaian adat Sulawesi Tenggara yang digunakan wanita suku Tolaki disebut se
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/yH9lpw1Bz1VT1jeqoBHutmaVkbs=/0x0:1073x715/750x500/data/photo/2019/11/13/5dcb65df27c28.jpeg"/>
+<br/>
+Tari Balumpa meruapakan tari tradisional yang berasal dari daerah Wakatobi, Sulawesi Tenggara yang menceritakan tentang sekolompok gadis yang sedang berdendang diiringi lagu daerah dan musik gambus dengan penuh keceriaan mereka berdendang dan menari dengan hati gembira dan tulus.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

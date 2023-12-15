@@ -34,6 +34,16 @@ Pakaian adat Papua Barat pertama dinamakan Serui. Pakaian adat ini tidak jauh be
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/zjb7hDVllYdPoheBv-R6OTsQDF0=/0x1:446x298/750x500/data/photo/2021/03/08/604509bc1b1b3.jpeg"/>
+<br/>
+Tari Soanggi atau tari Suanggi adalah tarian adat yang berasal dari daerah pantai Teluk Cendrawasih, Kabupaten Waropen, Provinsi Papua Barat. Eksistensi awal tari ini tidak begitu jelas, tetapi tarian tersebut merupakan salah satu bentuk ekspresi masyarakat Papua Barat yang masih kental dengan nuansa magis.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

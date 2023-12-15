@@ -34,6 +34,18 @@ Baju Amarasi adalah baju adat NTT dari Suku Dawan yang mendiami wilayah Kabupate
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/GK1wV7BGDEXSQjV3hfmEEu4CjTI=/62x28:780x387/750x500/data/photo/2017/03/03/2431963374.jpg"/>
+<br/>
+Tari Caci berasal Manggarai, Flores, Nusa Tenggara Timur (NTT). Tari caci merupakan salah satu kekayaan budaya yang dimiliki oleh daerah Manggarai. Tari caci merupakan tari perang yag dibalut dalam bentuk tarian. Tari caci juga menjadi simbol pertobatan dalam kehidupan manusia.
+
+Tari caci dimainkan saat tahun baru, syukuran musim panen (hang woja), tahun baru, pembukaan lahan, menyambut tamu besar, HUT Kemerdekaan RI maupun ritual adat besar lainnya.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

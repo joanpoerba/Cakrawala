@@ -34,6 +34,22 @@ Rimpu merupakan pakaian adat suku Dompu. Pakaian ini khusus dikenakan oleh perem
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/tari-lenggo-3.jpg"/>
+<br/>
+Tari Lenggo atau Mpaa Lenggo adalah tarian tradisional yang berasal dari Bima, Nusa Tenggara Barat (NTB).
+
+Tari Lenggo merupakan tarian peninggalan Kerajaan Bima yang sempat berkuasa di NTB.
+
+Tari Lenggo ini sering ditarikan di lingkungan Kerajaan Bima atau kantor pemerintahan pada saat kedatangan tamu resmi dan biasanya Tari Lenggo ditarikan oleh empat orang perempuan dan empat orang laki-laki yang dimana para penari akan mengenakan pakaian adat tradisional Kota Bima, yaitu baju bodo.
+
+Iringan musik dari tari Lenggo ini berupa serunai (seruling), gong dan katonggak (gendang dari kulit).
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

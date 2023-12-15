@@ -34,6 +34,16 @@ Pakaian holim ini yang lebih dikenal dengan sebutan koteka. Fungsi koteka ialah 
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/na4k98bgeG8iHvHH6mXy7UbS34U=/144x131:807x462/750x500/data/photo/2022/02/06/61ff58f97b523.png"/>
+<br/>
+Tari Sajojo merupakan sebuah tarian khas dari Papua yang sederhana dan dikenal di seluruh Indonesia. Tari ini bisa dianggap sebagai sebuah tarian hiburan atau tarian pergaulan seperti Cokek, dan bisa dilakukan oleh penari laki-laki maupun perempuan, tua atau muda. Ciri khas dari Tari Sajojo adalah busana para penarinya, yaitu rok rumbai berwarna coklat mudah yang dilengkapi dengan kalung, tombak, tifa, serta perlengkapan adat lainnya yang khas dari daerah setempat.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

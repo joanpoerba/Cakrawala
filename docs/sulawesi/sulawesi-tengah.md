@@ -34,6 +34,20 @@ Baju adat Suku Kaili untuk kaum wanita dinamakan baju Nggembe, sedangkan untuk k
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset-2.tstatic.net/palu/foto/bank/images2/tari-pamonte-khas-sulawesi-tengah.jpg"/>
+<br/>
+Tari Dopalak merupakan salah satu Tari Tradisional yang berasal dari Sulawesi Tengah.
+
+Tari Dopalak merupakan Tari Tradisional Sulteng yang biasanya ditarikan oleh 7 orang penari wanita.
+
+Ada pun salah satu diantaranya penari Tari Tradisional Sulteng tersebut berperan sebagai palima yaitu kepala penari. Sedangkan enam penari Tari Dopalak lainnya disebut dayang-dayang.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

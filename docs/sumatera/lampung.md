@@ -37,7 +37,7 @@ Baju adat Lampung Saibatin memiliki ciri khas warna yakni merah menyala. Pengant
 - ### Tarian
 
 <br/>
-<img width="500" src="https://cdn.idntimes.com/content-images/post/20211113/tari-bedana-lampung-bandung-klik-b845aeaa85a93ac5f235d71babafbb84.jpg"/>
+<img width="500" src="https://i1.sndcdn.com/artworks-000077734315-x93z00-t500x500.jpg"/>
 <br/>
 Tari Bedana merupakan salah satu tarian tradisional Zapin Melayu yang berasal dari daerah Lampung. Tari Bedana biasa dibawakan oleh pemuda-pemudi Lampung dalam acara tertentu sebagai ungkapan rasa gembira. Tari Bedana memiliki ciri khusus pada adat Lampung Pepadun maupun adat Lampung Saibatin.
 <br/>
@@ -47,7 +47,7 @@ Tari Bedana merupakan salah satu tarian tradisional Zapin Melayu yang berasal da
 - ### Alat Musik
 
 <br/>
-<img width="500" src="https://yosuasr.it.student.pens.ac.id/Projek%20Web/img/tradisional/alat_musik/gambus_musik/1.jpg"/>
+<img width="500" src="https://awsimages.detik.net.id/community/media/visual/2023/08/11/gambus-lampung.png?w=796"/>
 <br/>
 Gambus Lampung merupakan alat musik tradisional yang menggabungkan unsur-unsur musik Arab dengan nuansa lokal. Gambus hampir mirip dengan gitar, namun ia memiliki ciri khas resonator bundar yang terbuat dari kulit binatang atau kayu.
 <br/>

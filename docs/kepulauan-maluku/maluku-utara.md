@@ -34,6 +34,16 @@ Sama seperti Maluku, Baju Cele merupakan baju dari adat Maluku yang memiliki war
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://akcdn.detik.net.id/community/media/visual/2022/03/01/putri-indonesia-maluku-menari-cakalele_169.jpeg?w=700&q=90"/>
+<br/>
+Tari Cakalele merupakan tarian tradisional Maluku Utara yang menggambarkan ekspresi perang masyarakat Hulaliu, Maluku, pada masa lampau. Umumnya, Tari Cakalele ini dipertunjukkan saat penyambutan tamu ataupun perayaan adat.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>
