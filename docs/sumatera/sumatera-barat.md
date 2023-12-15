@@ -34,16 +34,6 @@ Baju Batabue. Baju Batabue memiliki arti baju bertabur. Sesuai dengan artinya, b
 <br/>
 <br/>
 
-- ### Tarian
-
-<br/>
-<img width="500" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tari_Piring_dan_Pecahan_Kaca.jpg"/>
-<br/>
-Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring terlepas dari tangan. Gerakannya diambil dari langkah dalam silat Minangkabau atau silek.
-<br/>
-<br/>
-<br/>
-
 - ### Alat Musik
 
 <br/>

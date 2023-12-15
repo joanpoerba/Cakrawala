@@ -34,16 +34,6 @@ Baju adat Lampung Saibatin memiliki ciri khas warna yakni merah menyala. Pengant
 <br/>
 <br/>
 
-- ### Tarian
-
-<br/>
-<img width="500" src="https://cdn.idntimes.com/content-images/post/20211113/tari-bedana-lampung-bandung-klik-b845aeaa85a93ac5f235d71babafbb84.jpg"/>
-<br/>
-Tari Bedana merupakan salah satu tarian tradisional Zapin Melayu yang berasal dari daerah Lampung. Tari Bedana biasa dibawakan oleh pemuda-pemudi Lampung dalam acara tertentu sebagai ungkapan rasa gembira. Tari Bedana memiliki ciri khusus pada adat Lampung Pepadun maupun adat Lampung Saibatin.
-<br/>
-<br/>
-<br/>
-
 - ### Alat Musik
 
 <br/>

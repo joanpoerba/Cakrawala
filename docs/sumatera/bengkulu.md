@@ -34,16 +34,6 @@ Pakaian Adat Bengkulu Batik Besurek. Pakaian Adat Bengkulu Kain Kaganga. Pakaian
 <br/>
 <br/>
 
-- ### Tarian
-
-<br/>
-<img width="500" src="https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Tari-Andun.jpg"/>
-<br/>
-Tari Andun adalah salah satu tari rakyat yang berasal dari Bengkulu. Perunjukan Tari Andun merupakan bagian dari persyaratan wajib dalam pelaksanaan upacara adat Nundang Padi. Tari Andun ditampilkan di lapangan terbuka. Gerak tarinya berupa gerak sembah, gerak puji dan gerak saling tindih.
-<br/>
-<br/>
-<br/>
-
 - ### Alat Musik
 
 <br/>

@@ -34,16 +34,6 @@ Pakaian Adat Aesan Gede dan Pak Sangkong adalah salah satu ciri khas dari pakaia
 <br/>
 <br/>
 
-- ### Tarian
-
-<br/>
-<img width="500" src="https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/09/20134237/image001-19.png"/>
-<br/>
-Tari Gending Sriwijaya merupakan tari yang melukiskan kegembiraan gadis-gadis Palembang saat menerima tamu yang diagungkan. Tepak yang berisi kapur, sirih, pinang dan ramuan lainnya dipersembahkan sebagai ungkapan rasa bahagia, Tari Gending Sriwijaya diiringi Gamelan dan lagu Gending Sriwijaya.
-<br/>
-<br/>
-<br/>
-
 - ### Alat Musik
 
 <br/>
