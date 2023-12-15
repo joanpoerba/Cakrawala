@@ -34,6 +34,16 @@ Disebut Pakaian Adat Kurung Tanggung lantaran baju ini hanya memiliki panjang le
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://cdnwpedutorenews.gramedia.net/wp-content/uploads/2022/11/14130904/image001-17.png"/>
+<br/>
+Tari Sekapur Sirih adalah salah satu tarian tradisional yang berasal dari daerah Jambi. Tarian ini termasuk jenis tarian penyambutan yang biasanya ditarikan oleh para penari wanita.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

@@ -34,6 +34,16 @@ Pakaian adat pria bagian atas disebut ampe-ampe dan bagian bawah disebut singkot
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://kualanamu-airport.co.id/userdata/pariwisata/ads59fbdbdd06ad3.jpg"/>
+<br/>
+Tortor adalah jenis tarian tradisional masyarakat Batak yang berasal dari provinsi Sumatera Utara, meliputi daerah kabupaten Tapanuli Utara, Humbang Hasundutan, Toba, Samosir, Tapanuli Tengah, Tapanuli Selatan, Mandailing Natal dan Simalungun. Tortor merupakan bagian penting dalam upacara adat masyarakat Batak
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

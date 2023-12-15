@@ -34,6 +34,17 @@ Pakaian adat Betawi yang bernama Pangsi Betawi memiliki ciri leher yang bundar d
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://akcdn.detik.net.id/visual/2021/09/14/tari-topeng-betawi_169.png?w=650&q=90"/>
+<br/>
+Tari Topeng Betawi merupakan salah satu pertunjukan kesenian tradisional yang berasal dari masyarakat Betawi. Tarian ini biasanya dibawakan saat pementasan teater rakyat Topeng Betawi, bersamaan dengan musik, nyanyian, bebodoran (lawak), dan lakon (drama).
+Tari Topeng Betawi mulai tumbuh pada awal Abad ke-20 di wilayah komunitas Betawi Pinggir (Betawi Ora). Karena tumbuh di daerah pinggiran Jakarta, Tari Topeng Betawi juga mendapat pengaruh dari kesenian Sunda.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

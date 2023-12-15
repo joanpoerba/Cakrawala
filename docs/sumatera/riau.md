@@ -34,6 +34,16 @@ Kebaya Labuh adalah pakaian adat Kepulauan Riau untuk wanita yang berbentuk keba
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://asset.kompas.com/crops/NfjnlrX8PULiVvdq0OmDShdUDag=/172x0:870x465/750x500/data/photo/2021/03/10/60486b3397d96.png"/>
+<br/>
+Dilansir darisitus resmi Provinsi Riau, nama Joget Lambak diambil dari bunyi-bunyi yang keluar dari alat musik pengiring tarian. Tarian Joget Lambak memadukan unsur tari, musik, dan nyantian yang sudah dikenal sejak abak ke-17. Biasanya tarian ini digelar pada malam hari. Dipentaskan dalam acara-acara kegiatan masyarakat seperti perkawinan, perayaan peringatan hari besar, atau dalam pentas seni pertunjukan.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>

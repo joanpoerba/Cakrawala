@@ -34,6 +34,16 @@ Baju Seting dan juga Kain Cual merupakan pakaian adat yang digunakan khusus oleh
 <br/>
 <br/>
 
+- ### Tarian
+
+<br/>
+<img width="500" src="https://pariwisataindonesia.id/wp-content/uploads/2020/05/Babel-pecahkan-rekor-MURI-dunia-tari-campak.antaranews.com_.jpghjhuy"/>
+<br/>
+Tari Campak merupakan tarian dari daerah Bangka-Belitung yang menggambarkan keceriaan bujang dan dayang di Kepulauan Bangka Belitung. Tarian ini biasanya dibawakan setelah panen padi atau sepulang dari ume.
+<br/>
+<br/>
+<br/>
+
 - ### Alat Musik
 
 <br/>
