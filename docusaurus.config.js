@@ -82,6 +82,14 @@ const config = {
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Ketjeh Nusantara",
+
+        logo: {
+          alt: "Site Logo",
+          src: "img/icon.png",
+          width: 32,
+          height: 32,
+        },
+
         items: [
           {
             href: "https://wa.me/+6282275338090?text=Hai%20Joann",
