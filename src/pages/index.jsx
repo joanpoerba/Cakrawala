@@ -45,6 +45,7 @@ export default function Home() {
           &copy; Copyright Ketjeh Nusantara | 2023 | All rights served
         </p>
       </footer>
+      <SpeedInsights />
     </Layout>
   );
 }
