@@ -79,8 +79,37 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        { name: "wikwok", content: "cooking, blog" },
-        { name: "twitter:card", content: "summary_large_imae" },
+        { property: "og:url", content: "https://ketjeh-nusantara.vercel.app/" },
+        { property: "og:type", content: "website" },
+        {
+          property: "og:title",
+          content:
+            "Ketjeh Nusantara | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
+        },
+        { property: "og:description", content: "undefined" },
+        {
+          property: "og:image",
+          content: "https://ketjeh-nusantara.vercel.app/img/banner.png",
+        },
+        { name: "twitter:card", content: "summary_large_image" },
+        { property: "twitter:domain", content: "ketjeh-nusantara.vercel.app" },
+        {
+          property: "twitter:url",
+          content: "https://ketjeh-nusantara.vercel.app/",
+        },
+        {
+          name: "twitter:title",
+          content:
+            "Ketjeh Nusantara | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
+        },
+        {
+          name: "twitter:description",
+          content: "undefined",
+        },
+        {
+          name: "twitter:image",
+          content: "https://ketjeh-nusantara.vercel.app/img/banner.png",
+        },
       ],
 
       // Replace with your project's social card
