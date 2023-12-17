@@ -78,6 +78,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        { name: "wikwok", content: "cooking, blog" },
+        { name: "twitter:card", content: "summary_large_imae" },
+      ],
+
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
