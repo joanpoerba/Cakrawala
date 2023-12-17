@@ -7,6 +7,10 @@ import Team from "@site/src/components/HomepageFeatures/Team";
 import styles from "./index.module.css";
 import TechStack from "../components/HomepageFeatures/TechStack";
 
+import { IoArrowForwardCircleOutline } from "react-icons/io5";
+
+import { SpeedInsights } from "@vercel/speed-insights/react";
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -17,10 +21,11 @@ function HomepageHeader() {
           <p className="text-md md:text-lg my-16">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className="button button--secondary button--lg"
+              className="flex flex-row items-center gap-x-3 button button--secondary button--md"
               to="/docs/category/sumatera"
             >
-              Kepo nih!
+              <IoArrowForwardCircleOutline className="text-4xl" />
+              <span className="text-xl">See more!</span>
             </Link>
           </div>
         </div>
