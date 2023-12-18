@@ -1,4 +1,6 @@
 /* https://dev.to/sajclarke_62/using-tailwindcss-v3-in-docusaurus-in-5-steps-5c26 */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -17,6 +19,20 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url('/img/bgimg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+header p:first-child,
+header p:nth-child(2){
+  font-family: 'Kalam', cursive !important;
+}
+
+header p:nth-child(2) {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #fff 70%);
+  border-radius: 4px;
 }
 
 .buttons {

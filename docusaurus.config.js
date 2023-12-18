@@ -8,9 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
-  tagline:
-    "Bersama kita lestarikan budaya dari setiap daerah yang ada di Indonesia, hanya dengan meng-kepoin nya, agar tetap terjaga sampai anak cucu.",
+  title: "Hello",
+  tagline: "Indonesia!",
   favicon: "img/icon.png",
 
   // Set the production url of your site here
@@ -76,6 +75,8 @@ const config = {
     ],
   ],
 
+  themes: ["@docusaurus/theme-search-algolia"],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -112,6 +113,36 @@ const config = {
           content: "https://ketjeh-nusantara.vercel.app/img/banner.png",
         },
       ],
+
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "KXQ2ZU2H5N",
+
+        // Public API key: it is safe to commit it
+        apiKey: "4837d575650e0d7389f2073ae0abf665",
+
+        indexName: "budaya",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: "external\\.com|domain\\.com",
+
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: "/docs/", // or as RegExp: /\/docs\//
+          to: "/",
+        },
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: "search",
+
+        //... other Algolia params
+      },
 
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",

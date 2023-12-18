@@ -40,7 +40,7 @@ export default function TechStack() {
   return (
     <>
       <main className="h-full flex flex-col justify-center items-center py-20 md:py-52">
-        <h1 className={style.customUnderline}>Tech Stack</h1>
+        <h1 className={style.customUnderline}>Tools & Tech Stack! 🛠️</h1>
         <div className="w-full flex flex-col md:flex-row gap-y-5 md:gap-y-28 justify-evenly items-center mt-20">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
