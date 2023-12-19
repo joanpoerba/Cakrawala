@@ -25,11 +25,6 @@
   background-attachment: fixed;
 }
 
-header p:first-child,
-header p:nth-child(2){
-  font-family: 'Kalam', cursive !important;
-}
-
 header p:nth-child(2) {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #fff 70%);
   border-radius: 4px;
