@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Ketjeh Nusantara",
-  tagline: "Indonesia!",
+  tagline: "Ayo Jelajahi Kebudayaan Pada Tiap Daerah Di Nusantara!",
   favicon: "img/icon.png",
 
   // Set the production url of your site here
