@@ -15,7 +15,7 @@
 }
 
 .heroBanner {
-  height: 100vh;
+  height: 400px;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -26,8 +26,12 @@
 }
 
 header p:nth-child(2) {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #fff 70%);
   border-radius: 4px;
+}
+
+header>div>div>p {
+  font-family: 'Roboto Condensed', sans-serif !important;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, white 50%);
 }
 
 .buttons {

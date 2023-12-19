@@ -27,7 +27,7 @@ function Feature({ image, developer }) {
 export default function Team() {
   return (
     <>
-      <main className="h-full flex flex-col justify-center items-center">
+      <main className="h-full flex flex-col justify-center items-center py-20 md:py-52">
         <h1 className={style.customUnderline}>Ketjeh Team 😎</h1>
         <div className="w-full flex flex-col md:flex-row gap-y-28 justify-evenly items-center mt-20">
           {FeatureList.map((props, idx) => (
