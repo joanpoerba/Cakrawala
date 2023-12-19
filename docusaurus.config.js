@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Hello",
+  title: "Ketjeh Nusantara",
   tagline: "Indonesia!",
   favicon: "img/icon.png",
 
