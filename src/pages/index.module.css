@@ -1,21 +1,23 @@
 /* https://dev.to/sajclarke_62/using-tailwindcss-v3-in-docusaurus-in-5-steps-5c26 */
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
+ 
+CSS files with the .module.css suffix will be treated as CSS modules
+and scoped locally.
+*/
 
 * {
   scroll-behavior: smooth;
 }
 
 .heroBanner {
-  height: 400px;
+  height: 100vh;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -25,13 +27,17 @@
   background-attachment: fixed;
 }
 
-header p:nth-child(2) {
-  border-radius: 4px;
+header p:first-child {
+  font-family: 'Cormorant Garamond', serif;
 }
 
-header>div>div>p {
-  font-family: 'Roboto Condensed', sans-serif !important;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, white 50%);
+header p:nth-child(2) {
+  font-family: 'Kalam', cursive !important;
+}
+
+header p:nth-child(2) {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #fff 70%);
+  border-radius: 4px;
 }
 
 .buttons {

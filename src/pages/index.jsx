@@ -11,32 +11,33 @@ import { SpeedInsights } from "@vercel/speed-insights/react";
 
 function HomepageHeader() {
   return (
-    <header className={[clsx("hero", styles.heroBanner)]}>
-      <div className="w-full flex flex-col items-center">
-        <div className="px-3 md:px-32 lg:px-52">
-          <p className="hello es:text-3xl text-black font-bold italic">
-            Hello Indonesia!
-          </p>
-          <div className={styles.buttons}>
-            <Link
-              className="flex flex-row items-center gap-x-3 button button--secondary mt-10 button--lg shadow-2xl"
-              to="/docs/category/sumatera"
-            >
-              <span className="text-2xl">See more! 👆</span>
-            </Link>
+    <>
+      <header className={[clsx("hero bg-transparent", styles.heroBanner)]}>
+        <div className="w-full flex flex-col items-center">
+          <div className="px-3 md:px-32 lg:px-52">
+            <p className="es:text-3xl font-medium text-black">
+              Hello Indonesia!
+            </p>
+            <div className={styles.buttons}>
+              <Link
+                className="flex flex-row items-center gap-x-3 button button--secondary mt-10 button--md"
+                to="/docs/category/sumatera"
+              >
+                <span className="text-xl">See more! 👆</span>
+              </Link>
+            </div>
           </div>
         </div>
-      </div>
-    </header>
+      </header>
+    </>
   );
 }
 
 export default function Home() {
   return (
-    <>
-      <Layout />
-      <About />
+    <Layout>
       <HomepageHeader />
+      <About />
       <Team />
       <TechStack />
       <footer>
@@ -45,6 +46,6 @@ export default function Home() {
         </p>
       </footer>
       <SpeedInsights />
-    </>
+    </Layout>
   );
 }

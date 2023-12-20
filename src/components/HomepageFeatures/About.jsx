@@ -4,7 +4,7 @@ export default function Team() {
   return (
     <>
       <main className="w-full h-screen flex justify-center">
-        <div className="lg:w-[70%] w-[90%] h-[650px] flex flex-col justify-center items-start">
+        <div className="lg:w-[70%] w-[90%] flex flex-col justify-center items-start">
           <h1 className="customUnderline lg:text-4xl md:text-3xl text-2xl">
             Hello Indonesia! 👋
           </h1>
