@@ -15,7 +15,7 @@ function HomepageHeader() {
       <header className={[clsx("hero bg-transparent", styles.heroBanner)]}>
         <div className="w-full flex flex-col items-center">
           <div className="px-3 md:px-32 lg:px-52">
-            <p className="es:text-3xl font-medium text-black italic">
+            <p className="es:text-3xl font-medium text-black italic tracking-widest">
               Hello Indonesia!
             </p>
             <div className={styles.buttons}>
