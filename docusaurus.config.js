@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ketjeh Nusantara",
+  title: "Cakrawala",
   tagline: "Ayo Jelajahi Kebudayaan Pada Tiap Daerah Di Nusantara!",
   favicon: "img/icon.png",
 
@@ -86,7 +86,7 @@ const config = {
         {
           property: "og:title",
           content:
-            "Ketjeh Nusantara | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
+            "Cakrawala | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
         },
         { property: "og:description", content: "undefined" },
         {
@@ -102,7 +102,7 @@ const config = {
         {
           name: "twitter:title",
           content:
-            "Ketjeh Nusantara | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
+            "Cakrawala | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
         },
         {
           name: "twitter:description",
@@ -116,7 +116,7 @@ const config = {
 
       // Replace with your project's social card
       navbar: {
-        title: "Ketjeh Nusantara",
+        title: "Cakrawala",
 
         logo: {
           alt: "Site Logo",
