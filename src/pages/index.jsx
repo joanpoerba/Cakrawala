@@ -1,5 +1,4 @@
 import clsx from "clsx";
-import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
 import About from "@site/src/components/HomepageFeatures/About";
 import Team from "@site/src/components/HomepageFeatures/Team";
@@ -18,7 +17,7 @@ function HomepageHeader() {
             <p className="es:text-2xl font-medium text-black italic tracking-widest">
               Hello
             </p>
-            <p className="es:text-5xl font-medium text-black italic tracking-widest">
+            <p className="es:text-5xl font-medium text-red-500 italic tracking-widest">
               Indonesia!
             </p>
           </div>
