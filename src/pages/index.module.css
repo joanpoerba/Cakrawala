@@ -6,12 +6,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/**
- 
-CSS files with the .module.css suffix will be treated as CSS modules
-and scoped locally.
-*/
-
 * {
   scroll-behavior: smooth;
 }
@@ -27,17 +21,8 @@ and scoped locally.
   background-attachment: fixed;
 }
 
-header p:first-child {
+header p {
   font-family: 'Cormorant Garamond', serif;
-}
-
-header p:nth-child(2) {
-  font-family: 'Kalam', cursive !important;
-}
-
-header p:nth-child(2) {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 10%, #fff 70%);
-  border-radius: 4px;
 }
 
 .buttons {

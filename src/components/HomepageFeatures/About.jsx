@@ -6,22 +6,22 @@ export default function Team() {
       <main className="w-full h-screen flex justify-center">
         <div className="lg:w-[70%] w-[90%] flex flex-col justify-center items-start">
           <h1 className="customUnderline lg:text-4xl md:text-3xl text-2xl">
-            Hello Indonesia! 👋
+            Hello Indonesia!
           </h1>
           <h2 className="lg:text-6xl md:text-5xl text-4xl md:my-10 my-5">
-            Ayo Jelajahi Kebudayaan Pada Tiap Daerah Di Nusantara! ✈️
+            Ini Cakrawala! Cara baru untuk bereksplorasi setiap sudut Indonesia.
           </h2>
           <p className="md:text-xl text-base">
             Selamat datang di situs web eksplorasi provinsi-provinsi Indonesia!
             Temukan keindahan alam, budaya, dan keunikan masing-masing daerah
             dengan informasi lengkap dan gambar menarik. Mari jelajahi Indonesia
-            dari Sabang sampai Merauke, semua dalam genggamanmu. 🏝️
+            dari Sabang sampai Merauke, semua dalam genggamanmu.
           </p>
           <Link
             className="flex flex-row items-center gap-x-3 button button--secondary mt-10 button--sm shadow-2xl"
             to="/docs/category/sumatera"
           >
-            <span className="text-2xl">See more! 🔍</span>
+            <span className="text-2xl">See more!</span>
           </Link>
         </div>
       </main>
