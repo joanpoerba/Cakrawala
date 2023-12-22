@@ -14,10 +14,10 @@ function HomepageHeader() {
       <header className={[clsx("hero bg-transparent", styles.heroBanner)]}>
         <div className="w-full flex flex-col items-center">
           <div className="px-3 md:px-32 lg:px-52">
-            <p className="es:text-2xl font-medium text-black italic tracking-widest">
+            <p className="es:text-2xl font-medium text-white italic tracking-widest">
               Hello
             </p>
-            <p className="es:text-5xl font-medium text-red-500 italic tracking-widest">
+            <p className="es:text-5xl font-medium text-white italic tracking-widest">
               Indonesia!
             </p>
           </div>
@@ -32,6 +32,23 @@ export default function Home() {
     <Layout>
       <HomepageHeader />
       <About />
+      <div className="flex flex-col items-center py-52">
+        <div className="w-[90%] flex flex-col items-center">
+          <p className="text-xl md:text-3xl font-bold text-center">
+            Kenyamanan Dalam Mengakses Untuk Para User
+          </p>
+          <img
+            className="w-[75%] mt-10 hidden md:block"
+            src="/img/mockup.png"
+            alt=""
+          />
+          <img
+            className="w-[85%] sm:w-[40%] mt-10 block md:hidden"
+            src="/img/mobile.png"
+            alt=""
+          />
+        </div>
+      </div>
       <Team />
       <TechStack />
       <footer>

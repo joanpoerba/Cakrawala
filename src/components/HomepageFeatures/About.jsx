@@ -3,7 +3,7 @@ import Link from "@docusaurus/Link";
 export default function Team() {
   return (
     <>
-      <main className="w-full h-screen flex justify-center">
+      <main className="w-full py-40 flex justify-center">
         <div className="lg:w-[70%] w-[90%] flex flex-col justify-center items-start">
           <h1
             style={{

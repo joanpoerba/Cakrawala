@@ -27,7 +27,7 @@ function Feature({ image, developer }) {
 export default function Team() {
   return (
     <>
-      <main className="h-full flex flex-col justify-center items-center py-20 md:py-52">
+      <main className="h-full flex flex-col justify-center items-center">
         <h1
           style={{
             background:
