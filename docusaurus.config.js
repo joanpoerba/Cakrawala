@@ -14,7 +14,7 @@ const config = {
   favicon: "img/icon.png",
 
   // Set the production url of your site here
-  url: "https://ketjeh-nusantara.vercel.app/",
+  url: "https://cakrawala.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -76,28 +76,29 @@ const config = {
     ],
   ],
 
-  // themes: ["@docusaurus/theme-search-algolia"],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        { property: "og:url", content: "https://ketjeh-nusantara.vercel.app/" },
+        { property: "og:url", content: "https://cakrawala.vercel.app/" },
         { property: "og:type", content: "website" },
         {
           property: "og:title",
           content: "Cakrawala | Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
         },
-        { property: "og:description", content: "undefined" },
+        {
+          property: "og:description",
+          content: "Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
+        },
         {
           property: "og:image",
-          content: "https://ketjeh-nusantara.vercel.app/img/banner.png",
+          content: "https://cakrawala.vercel.app/img/banner.png",
         },
         { name: "twitter:card", content: "summary_large_image" },
         { property: "twitter:domain", content: "ketjeh-nusantara.vercel.app" },
         {
           property: "twitter:url",
-          content: "https://ketjeh-nusantara.vercel.app/",
+          content: "https://cakrawala.vercel.app/",
         },
         {
           name: "twitter:title",
@@ -105,11 +106,11 @@ const config = {
         },
         {
           name: "twitter:description",
-          content: "undefined",
+          content: "Ayo Kepoin Kebudayaan Dan Daerah Indonesia!",
         },
         {
           name: "twitter:image",
-          content: "https://ketjeh-nusantara.vercel.app/img/banner.png",
+          content: "https://cakrawala.vercel.app/img/banner.png",
         },
       ],
 

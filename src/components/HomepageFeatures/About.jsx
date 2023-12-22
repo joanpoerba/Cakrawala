@@ -31,7 +31,7 @@ export default function Team() {
             dilengkapi dengan informasi yang lengkap, serta gambar yang menarik
           </p>
           <Link
-            className="flex flex-row items-center gap-x-3 button button--secondary mt-10 button--sm shadow-2xl"
+            className="flex flex-row items-center gap-x-3 button button--secondary mt-10 button--sm"
             to="/docs/category/sumatera"
           >
             <span className="text-2xl">See more!</span>

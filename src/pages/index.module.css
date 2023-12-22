@@ -21,12 +21,17 @@
   background-attachment: fixed;
 }
 
-/* header div div p:first-child, header div div p:nth-child(2) {
-  font-family: 'Cormorant Garamond', serif;
-} */
-
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+@media (max-width: 500px) {
+  .heroBanner {
+    background-image: url('/img/bgimgMobile.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
 }
