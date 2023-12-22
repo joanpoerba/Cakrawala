@@ -15,7 +15,7 @@ function HomepageHeader() {
         <div className="w-full flex flex-col items-center">
           <div className="px-3 md:px-32 lg:px-52">
             <p className="es:text-2xl font-medium text-white italic tracking-widest">
-              Hello
+              Halo
             </p>
             <p className="es:text-5xl font-medium text-white italic tracking-widest">
               Indonesia!
@@ -35,7 +35,7 @@ export default function Home() {
       <div className="flex flex-col items-center py-52">
         <div className="w-[90%] flex flex-col items-center">
           <p className="text-xl md:text-3xl font-bold text-center">
-            Kenyamanan Dalam Mengakses Untuk Para User
+            Akses nyaman untuk setiap user
           </p>
           <img
             className="w-[75%] mt-10 hidden md:block"
